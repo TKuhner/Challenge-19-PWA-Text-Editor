@@ -21,8 +21,9 @@ To install the application locally:
 4. Navigate to `localhost:3001` in your browser to view the application.
 
 ## Usage
-To use the application click on the link below: 
+To use the application online click on the link below: 
 
+https://dashboard.heroku.com/apps/challenge-19-pwa-jate
 
 ## License
 MIT License
